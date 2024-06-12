@@ -1,0 +1,9 @@
+#string
+name="Harry"
+print(name[0])
+#array
+names=["Harry","Ron","Hermione"]
+print(names)
+print(names[0])
+print(names[1])
+print(names[2])
